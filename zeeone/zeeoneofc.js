@@ -21,7 +21,7 @@ ${numberik}➛RAM : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}
 ${numberik}➛MCC : ${mcc}
 └❏ MNC : ${mnc}
 
-┌─❑「 *BOT INFO* 」
+┌─❑「 *BOT LAXY INFO 🤖* 」
 ${numberik}➛ Owner : ${ownername}
 ${numberik}➛Mode : ${status}
 ${numberik}➛Prefix : ${prefix}
@@ -114,7 +114,7 @@ const download = (prefix) => {
 `
 }
 const allmenu = (kyun, os, prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensii)  => {
-	return`❏───「 *WHATSAPP BOT* 」───❏
+	return`❏───「 *LAXY BOT* 」───❏
                                
 ℒ⃝🌅  *THIS DAY*
 ${ucapannya2}
